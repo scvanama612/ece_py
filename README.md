@@ -1,6 +1,6 @@
 # ElecPy
 
-ElecPy is a Python project originally created by Parshwanath V Jain (PVJ) on September 8, 2023. It is now actively maintained by Sai Chandra Vanama. ElecPy aims to combine the fields of electronics and computer science on a surface level, making it easier to perform basic electronic calculations and experiments. The project provides a command-line interface for various electronic calculations and simulations.
+ElecPy is a Python project it is now actively maintained by Sai Chandra Vanama. ElecPy aims to combine the fields of electronics and computer science on a surface level, making it easier to perform basic electronic calculations and experiments. The project provides a command-line interface for various electronic calculations and simulations.
 
 
 ## Features
